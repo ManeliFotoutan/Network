@@ -198,5 +198,3 @@ computer1.send_packet(computer2, "Hello World!", algorithm="BFS")
 
 # ارسال بسته با استفاده از DFS
 computer1.send_packet(computer2, "Hello Again!", algorithm="DFS")
-
-#test for pushhhhh
